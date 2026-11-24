@@ -31,9 +31,14 @@
 
 | Projeto | Descrição |
 |---|---|
-| 💊 [pharma-gestor](https://github.com/Clevilson/pharma-gestor) | Sistema de gestão para farmácias |
-| 📈 *em breve* | Exemplos de modelagem SQL e painéis Looker Studio com dados fictícios |
+| 📈 [analise-assinaturas-saude](https://github.com/Clevilson/analise-assinaturas-saude) | Churn, retenção por coorte, MRR, inadimplência e ranking de vendas × meta com SQL e Python (dados fictícios) |
+| 📓 [diario-de-dados](https://github.com/Clevilson/diario-de-dados) | Meu diário de aprendizado: dicas práticas de BigQuery, SQL, Looker Studio e Python |
+| 💊 [pharma-gestor](https://github.com/Clevilson/pharma-gestor) | Sistema de gestão para farmácias *(em construção)* |
 
 ### 🎯 Aprendendo agora
 
 Modelagem dimensional · boas práticas de data warehouse · automação de pipelines · análise de assinaturas e churn
+
+### 🤝 Vamos trocar ideia
+
+Gosto de conversar sobre indicadores de negócio, BigQuery e visualização de dados. Fique à vontade para abrir uma *issue* nos meus projetos ou me seguir por aqui.
